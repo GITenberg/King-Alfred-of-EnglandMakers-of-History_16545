@@ -1,0 +1,34 @@
+_repo: King-Alfred-of-EnglandMakers-of-History_16545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Alfred, 871-899 -- Juvenile literature'
+- !lcsh 'Alfred, King of England, 849-899 -- Juvenile literature'
+- !lcc 'DA'
+title: 'King Alfred of England
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/16545
